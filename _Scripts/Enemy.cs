@@ -6,7 +6,7 @@ using UnityEngine.Scripting.APIUpdating;
 public class Enemy : MonoBehaviour
 {
     [Header("Set in Inspector: Enemy")]
-    public float speed = 10f;
+    public float speed = 15f;
     public float fireRate = 0.3f;
     public float health = 10;
     public int score = 100;
